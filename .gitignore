@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#uv files
+*.toml
+uv.lock
+main.py
+README.md
+.python-version
+
+# Graphs files
+fb100/
+
+# Other documents
+*.pdf

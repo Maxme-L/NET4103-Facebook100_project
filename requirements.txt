@@ -1,0 +1,6 @@
+ipykernel
+pip
+
+networkx
+matplotlib
+numpy
