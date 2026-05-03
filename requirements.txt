@@ -1,6 +1,10 @@
 ipykernel
 pip
-
 networkx
 matplotlib
 numpy
+tqdm
+scipy
+torch
+torch-geometric
+scikit-learn
